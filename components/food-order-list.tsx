@@ -12,7 +12,7 @@ export function FoodOrderList() {
       items: ["Continental Breakfast", "Orange Juice"],
       time: "08:15 AM",
       status: "Pending",
-      total: "$19",
+      total: "₹190",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export function FoodOrderList() {
       items: ["Club Sandwich", "French Fries", "Coke"],
       time: "12:30 PM",
       status: "Preparing",
-      total: "$22",
+      total: "₹220",
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ export function FoodOrderList() {
       items: ["Filet Mignon", "Red Wine"],
       time: "07:45 PM",
       status: "Delivered",
-      total: "$45",
+      total: "₹450",
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ export function FoodOrderList() {
       items: ["Ice Cream", "Chocolate Cake"],
       time: "09:20 PM",
       status: "Completed",
-      total: "$14",
+      total: "₹140",
     },
   ]
 

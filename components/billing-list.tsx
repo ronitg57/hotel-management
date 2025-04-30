@@ -13,7 +13,7 @@ export function BillingList() {
       room: "201",
       checkIn: "2023-04-15",
       checkOut: "2023-04-18",
-      amount: "$540",
+      amount: "₹540",
       status: "Paid",
     },
     {
@@ -22,7 +22,7 @@ export function BillingList() {
       room: "305",
       checkIn: "2023-04-20",
       checkOut: "2023-04-25",
-      amount: "$1,250",
+      amount: "₹1,250",
       status: "Pending",
     },
     {
@@ -31,7 +31,7 @@ export function BillingList() {
       room: "102",
       checkIn: "2023-04-22",
       checkOut: "2023-04-24",
-      amount: "$240",
+      amount: "₹240",
       status: "Paid",
     },
     {
@@ -40,7 +40,7 @@ export function BillingList() {
       room: "401",
       checkIn: "2023-05-01",
       checkOut: "2023-05-05",
-      amount: "$1,400",
+      amount: "₹1,400",
       status: "Refunded",
     },
     {
@@ -49,7 +49,7 @@ export function BillingList() {
       room: "203",
       checkIn: "2023-05-10",
       checkOut: "2023-05-15",
-      amount: "$900",
+      amount: "₹900",
       status: "Unpaid",
     },
   ]
